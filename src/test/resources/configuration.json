@@ -1,0 +1,20 @@
+{
+	"driver": {
+		"paths": {
+			"chrome": "",
+			"firefox": ""
+		},
+		"browser": "chrome",
+		"quit": false,
+		"hide": false
+	},
+	"apps": {
+		"google": {
+			"users": {
+				"i904819": "lgpd1122"
+			},
+			"env": "ti",
+			"url": "https://www.google.com.br/"
+		}
+	}
+}
